@@ -5,7 +5,7 @@ No momento estou desenvolvendo alguns projetos pessoais para implementar em meu 
 - [x] Blog Posts com hooks para o youtube.
 - [ ] Painel ADMIN para me facilitar o gerenciamento dos serviços
 - [ ] Aba de Projetos em meu site pessoal
-- [ ] Meu próprio bot Telegram e um bot de repasse para o Telegram.
+- [x] Meu próprio bot Telegram e um bot de repasse para o Telegram.
 - [ ] Site Pessoal
 - [ ] Carteira de Ações
 - [ ] Controle de Gastos
