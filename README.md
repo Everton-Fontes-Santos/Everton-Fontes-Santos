@@ -14,7 +14,7 @@ No momento estou desenvolvendo alguns projetos pessoais para implementar em meu 
 - [ ] Controle de Clientes
 - [ ] API do WhatsApp para empresas usando o Baileys
 - [ ] Analise Exploratória de Sinais OB
-- [x] Jogo da Memória
+- [x] [Jogo da Memória](https://github.com/Everton-Fontes-Santos/ToneGame)
 
 - 🌱 Atualmente estou aprendendo em conjunto com os projetos, microserviços, solidity e React
 
