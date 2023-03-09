@@ -2,6 +2,8 @@
 
 No momento estou desenvolvendo alguns projetos pessoais para implementar em meu estilo de vida. deixarei listado abaixo para até eu mesmo acompanhar.
 
+##( No momento estou implementando uma agenda para ensaios fotograficos )
+
 - [x] Blog Posts com hooks para o youtube.
 - [ ] Painel ADMIN para me facilitar o gerenciamento dos serviços
 - [ ] Aba de Projetos em meu site pessoal
